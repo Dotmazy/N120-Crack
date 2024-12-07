@@ -19,7 +19,6 @@ First if you have any scripts or values don't forget to save it in your computer
 Next open the numwork (you'll probably need to buy a special screwdriver), be carefull and don't unplug the battery.
 
 Then here is the connections:
-
 |Numwork|Raspberry PI|
 |:--|:--|
 |VSS|GND|
@@ -27,6 +26,10 @@ Then here is the connections:
 |RX (PA10)|TX (GPIO 14)|
 
 ![NUMWORK CONNECTIONS](https://github.com/user-attachments/assets/81d5159b-617a-40ef-8e0f-32e959350a6f)
+
+## Flash the custom bootloader (unlocked)
+Download the bootloader in **Release** Section.
+## (WIP, please wait)
 
 # Here is some information I can give you about the calculator
 
@@ -41,3 +44,6 @@ Then here is the connections:
 
 ## Micro Processor Reference
 STM32H725
+
+## Screen Reference (not sure, taken from the n110)
+ST7789V
