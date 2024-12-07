@@ -32,7 +32,7 @@ Then here is the connections:
 
 ## Bottom connections
 |RX  |VREF+|
-|:--|:--|
+|--|--|
 |TX  |VBAT |
 |3.3v|NRST |
 |GND |-|
