@@ -27,3 +27,13 @@ Then here is the connections:
 |RX (PA10)|TX (GPIO 14)|
 
 ![NUMWORK CONNECTIONS](https://github.com/user-attachments/assets/81d5159b-617a-40ef-8e0f-32e959350a6f)
+
+# Here is some information I can give you about the calculator
+
+## Bottom connections
+|RX  |VREF+|
+|:--|:--|
+|TX  |VBAT |
+|3.3v|NRST |
+|GND |     |
+|    |     |
