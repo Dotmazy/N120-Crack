@@ -31,10 +31,11 @@ Then here is the connections:
 # Here is some information I can give you about the calculator
 
 ## Bottom connections
-|RX  |VREF+|
+|Left|Right|
 |--|--|
-|TX  |VBAT |
-|3.3v|NRST |
+|RX|VREF+|
+|TX|VBAT|
+|3.3v|NRST|
 |GND |-|
 |-|-|
 
