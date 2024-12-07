@@ -35,5 +35,8 @@ Then here is the connections:
 |:--|:--|
 |TX  |VBAT |
 |3.3v|NRST |
-|GND |     |
-|    |     |
+|GND |-|
+|-|-|
+
+## Micro Processor Reference
+STM32H725
