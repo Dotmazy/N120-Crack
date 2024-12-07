@@ -20,6 +20,7 @@ Next open the numwork (you'll probably need to buy a special screwdriver), be ca
 Then here is the connections:
 
 |Numwork|Raspberry PI|
+|:-----|:-----|
 |VSS|GND|
 |TX (PA9)|RX (GPIO 15)|
 |RX (PA10)|TX (GPIO 14)|
