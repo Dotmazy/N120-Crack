@@ -17,10 +17,13 @@ Here is all the things you'll need:
 
 First if you have any scripts or values don't forget to save it in your computer.
 Next open the numwork (you'll probably need to buy a special screwdriver), be carefull and don't unplug the battery.
+
 Then here is the connections:
 
 |Numwork|Raspberry PI|
-|:-----|:-----|
+|:--|:--|
 |VSS|GND|
 |TX (PA9)|RX (GPIO 15)|
 |RX (PA10)|TX (GPIO 14)|
+
+![NUMWORK CONNECTIONS](https://github.com/user-attachments/assets/81d5159b-617a-40ef-8e0f-32e959350a6f)
