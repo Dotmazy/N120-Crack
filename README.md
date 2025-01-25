@@ -1,6 +1,6 @@
 # N120-Crack
-In this repository there is all the source code i've made (bootloader) and used (rest) to crack the numwork n120.
-If someone wanna help me cracking the n120 (if you're french it's even better because i'm french) send me a request on discord "dotmazy"
+In this repository there is all the source code i've made (bootloader) and used to crack the numwork n120.
+If someone wanna help me cracking the n120 (if you're french it's even better because i'm french) send me a request on discord "dotmazy".
 
 # DO NOT FOLLOW THIS TUTORIAL, IT'S WORK IN PROGRESS
 
