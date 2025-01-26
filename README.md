@@ -11,7 +11,7 @@ If someone wanna help me cracking the n120 (if you're french it's even better be
 Here is all the things you'll need:
 - a st link (not needed if your calculator isn't locked)
 - a numwork N120 (look at the back of your calculator)
-- 1/3 cables (to connect the raspberry to the numwork)
+- 1/3 cables
 - a screw driver
 
 ## Open the numwork and connections
