@@ -32,6 +32,6 @@ On the st link you can see the pins just connect three cables: one on swclk, one
 
 When you have done that connect the numwork to your pc, on your pc install [STM32 Cube Programmer](https://www.st.com/en/development-tools/stm32cubeprog.html) and launch it, select st link on the right if it's not already selected then click on connect (verify that the pins between the numwork and the st link are connected well) then go in OB on the right, then extends Read Out Protection there should be CC, set it to AA and also go down to Write Protection and turn everything on (it will turn of the write protection). Then you can either go back to Webdfu or use STM32CubeProgrammer to flash the bootloader.
 
-If you're here the bootloader is flashed and you're numwork n120 has been cracked :) finaly it's possible.
+If you're here the bootloader is flashed and you're numwork n120 has been cracked :), yes it's finaly possible.
 
 Then just go and install a custom firmware like omega or upsilon (note: idk if it will work).
