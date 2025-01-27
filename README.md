@@ -20,12 +20,12 @@ First if you have any scripts or values don't forget to save it in your computer
 Next open the numwork, be carefull and unplug the battery.
 
 ## Go into boot0 mode
-Download the bootloader in **Release** Section.
 ## (WIP, please wait)
 Connect the numwork to the pc.
 Connect the pin 3.3v to boot0 (seen in the image) then click reset on the calculator (put the black part to click on it). If the light turn red then it's ok, else if the led turn green that mean that your calculator is locked, skip this step:
 
 ## Flash the custom bootloader (unlocked)
+Download the bootloader in **Release** Section.
 Go to [Webdfu](https://ti-planet.github.io/webdfu_numworks/n0110/), select the `internal.bin` file and click `Flash Internal`.
 
 ## Your calculator is locked
